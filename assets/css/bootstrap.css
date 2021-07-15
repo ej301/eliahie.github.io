@@ -1184,10 +1184,10 @@ a.text-danger:hover {
 }
 .bg-primary {
   color: #fff;
-  background-color: #337ab7;
+  background-color: rgb(183, 51, 51);
 }
 a.bg-primary:hover {
-  background-color: #286090;
+  background-color: #124674;
 }
 .bg-success {
   background-color: #dff0d8;
